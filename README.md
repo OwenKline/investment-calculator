@@ -16,10 +16,14 @@ A Python application that models long-term investment growth using compound inte
 # Installation
 1. Install Python 3.
 2. Install Matplotlib:
-   pip install matplotlib
+
+ ```pip install matplotlib```
 
 # Running the Program
 Run the following command in terminal:
+
     python investment_calculator.py
+    
 If the above doesn't work, try:
+
     python3 investment_calculator.py
